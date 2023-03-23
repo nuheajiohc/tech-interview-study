@@ -29,8 +29,8 @@
 ---
 ## 💬 팀원
 |<center><img src = 'https://avatars.githubusercontent.com/u/113998025?v=4' width=80%></center>|<center><img src = 'https://avatars.githubusercontent.com/u/48740214?v=4' width=75%></center>|<center><img src = 'https://avatars.githubusercontent.com/u/66870933?v=4' width=80%></center>|
-|--|--|--|
-|[<center>🍓 재훈</center>](https://github.com/nuheajiohc)</center> | [<center>🥝 수연</center>](https://github.com/soocy0718) | [<center>🍑 정언)</center>](https://github.com/eonnypeach) |
+|:--:|:--:|:--:|
+|[🍓 재훈](https://github.com/nuheajiohc) | [🥝 수연](https://github.com/soocy0718)| [🍑 정언](https://github.com/eonnypeach) |
 
 ---
 ## 👂 팀장님의 명언
