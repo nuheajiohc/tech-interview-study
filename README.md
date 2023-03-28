@@ -26,7 +26,7 @@
 |:--:|:--|
 |수연|OSI 계층<br>TCP/IP<br>TCP & UDP<br>3-Way handshake & 4-Way hadnshake<br>HTTP동작과정, HTTP Method, 상태코드<br>WAS vs Web Server|
 |재훈|HTTP & HTTPS<br>GET & POST<br>PUT & PATCH<br>REST & RESTful<br>웹 통신의 큰 흐름(Naver를 치면 일어나는 과정)<br>쿠키와 세션의 차이<br>Stateful vs. Stateless 서비스와 HTTP 및 REST<br>HTTP1 HTTP2 HTTP3 차이<br>jwt으로 로그인 하는 방식<br>OAuth로 로그인 하는 방식<br>CORS 설명|
-|정언|TLS/SSL handshake<br>로드 밸런싱<br>Blocking & Non-Blocking<br>DNS<br>RoundRobin<br>흐름제어기법중 슬라이딩 윈도우 방식에대해 설명하라|
+|정언|TLS/SSL handshake<br>로드 밸런싱<br>Blocking & Non-Blocking<br>DNS<br>RoundRobin<br>흐름제어기법|
 
 ### 참고
 - [참고1](https://github.com/gyoogle/tech-interview-for-developer)
