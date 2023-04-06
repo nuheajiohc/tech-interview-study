@@ -8,24 +8,25 @@
 ---
 ## 📌 방식
 ### 날짜
-- 매주 화요일
+- 격주 목요일
 ### 방법
-1. 각자 범위별 문제 출제
-2. 다른 팀원의 문제 풀기
-3. 푼 문제 인증
+1. 주제별 각자 공부(2주)
+2. 각자 범위별 문제 출제(목요일)
+3. 다른 팀원의 문제 풀기
+4. 푼 문제 인증
 ### 주의할 점
 - 출제자 : 토글로 정답 작성 및 참고 사이트 같이 첨부
 - 응시자 : 24시간내에 풀기
 ---
 ## 📌 [네트워크](https://github.com/nuheajiohc/tech-interview-study/Network)
 ### 날짜
-- 3월 30일 진행
+- 4월 6일 진행
   
 ### 문제 범위
 |출제자|범위|
 |:--:|:--|
 |수연|OSI 계층<br>TCP/IP<br>TCP & UDP<br>3-Way handshake & 4-Way hadnshake<br>HTTP동작과정, HTTP Method, 상태코드<br>WAS vs Web Server|
-|재훈|HTTP & HTTPS<br>GET & POST<br>PUT & PATCH<br>REST & RESTful<br>웹 통신의 큰 흐름(Naver를 치면 일어나는 과정)<br>쿠키와 세션의 차이<br>Stateful vs. Stateless 서비스와 HTTP 및 REST<br>HTTP1 HTTP2 HTTP3 차이<br>jwt으로 로그인 하는 방식<br>OAuth로 로그인 하는 방식<br>CORS 설명|
+|재훈|HTTP & HTTPS<br>GET & POST<br>PUT & PATCH<br>REST & RESTful<br>웹 통신의 큰 흐름(Naver를 치면 일어나는 과정)<br>쿠키와 세션의 차이<br>Stateful vs. Stateless 서비스<br>HTTP1 HTTP2 HTTP3 차이<br>jwt으로 로그인 하는 방식<br>OAuth로 로그인 하는 방식<br>CORS 설명|
 |정언|TLS/SSL handshake<br>로드 밸런싱<br>Blocking & Non-Blocking<br>DNS<br>RoundRobin<br>흐름제어기법|
 
 ### 참고
@@ -42,6 +43,7 @@
 
 ---
 ## 👂 팀장님의 명언
-|우리는 더 이상 미루면 안되거든 우리의 성공을|
+|팀장님의 명언|
 |--|
+|우리는 더 이상 미루면 안되거든 우리의 성공을|
 |내년에 취업하고 싶어요?|
