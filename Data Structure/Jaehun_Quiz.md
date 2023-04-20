@@ -103,8 +103,6 @@ stack은 후입선출 LIFO의 자료구조입니다. 시간복잡도는 추가, 
 </details>
 <hr>
 
-## stack 두 개를 이용하여 queue를 구현해보는 것, queue 두 개를 이용하여 stack을 구현해보는 것 생각해보기
-
 ## 10. 우선순위 큐와 Heap에 대해 설명해보세요
 
 <details>
@@ -162,3 +160,5 @@ seperate chaining 방식은 연결리스트를 사용합니다. 만약에 충돌
 </div>
 </details>
 <hr>
+
+## stack 두 개를 이용하여 queue를 구현해보는 것, queue 두 개를 이용하여 stack을 구현해보는 것 생각해보기
