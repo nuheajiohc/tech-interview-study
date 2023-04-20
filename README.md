@@ -3,6 +3,7 @@
 ## ✨ 목록
 - [방식](#-방식)
 - [네트워크](#-네트워크)
+- [자료구조](#-자료구조)
 - [팀원](#-팀원)
 - [명언](#-팀장님의-명언)
 ---
@@ -18,7 +19,7 @@
 - 출제자 : 토글로 정답 작성 및 참고 사이트 같이 첨부
 - 응시자 : 24시간내에 풀기
 ---
-## 📌 [네트워크](https://github.com/nuheajiohc/tech-interview-study/Network)
+## 📌 [네트워크](https://github.com/nuheajiohc/tech-interview-study/tree/main/Data%20Structure)
 ### 날짜
 - 4월 6일 진행
   
@@ -34,6 +35,16 @@
 - [참고2](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Network)
 - [참고3](https://github.com/WooVictory/Ready-For-Tech-Interview)
 - [참고4](https://github.com/devham76/tech-interview-study/blob/master/contents/network.md)
+---
+## 📌 [자료구조](https://github.com/nuheajiohc/tech-interview-study/tree/main/DataStructure)
+### 날짜
+- 4월 20일 진행
+  
+### 문제 범위
+|출제자|범위|
+|:--:|:--|
+|재훈|Array<br>LinkedList<br>Stack & Queue<br>Heap<br>Hash|
+|수연|Tree<br>Sort<br>Graph|
 
 ---
 ## 💬 팀원
